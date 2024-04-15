@@ -1,0 +1,14 @@
+1. Visualizzazione dei dettagli del personale del corso
+Attori: Utente
+Descrizione: Questo caso d'uso permette agli utenti autorizzati di visualizzare
+i dettagli del personale associato a un determinato corso.
+
+2.Modifica dei dati del personale
+Attori: Amministratore
+Descrizione: Questo caso d'uso consente agli amministratori di modificare i dati
+del personale (aggiungere, modificare o rimuovere) associati ai corsi.
+
+3.Gestione dei corsi
+Attori: Amministratore
+Descrizione: Questo caso d'uso consente agli amministratori di gestire i corsi offerti
+dall'Academy tech, inclusa la creazione, la modifica e l'eliminazione dei corsi.
